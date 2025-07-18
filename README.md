@@ -66,25 +66,7 @@ I’m a passionate full-stack developer with strong hands-on experience in:
 
 
 
-<h1 align="center">Hi 👋, I'm K. Ashwin Shanmughanathan</h1>
-<h3 align="center">Aspiring Full-Stack Developer | Hackathon Finalist | Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ashwin-12032006&label=Profile%20views&color=0e75b6&style=flat" alt="Ashwin-12032006" />
-</p>
-
----
-
-### 🧑‍💻 About Me
-
-- 🎓 B.Tech IT @ **Sri Shakthi Institute of Engineering and Technology**
-- 🔭 I’m currently working on full-stack projects and hackathon solutions
-- 🌱 I’m learning **Spring Boot**, **React**, and **AI tools**
-- 💬 Ask me about **Java, Node.js, REST APIs, MySQL, Frontend UI**
-- 📫 Reach me at: [ashwin23siet@gmail.com](mailto:ashwin23siet@gmail.com)
-- 🌐 Portfolio/Projects: [GitHub](https://github.com/Ashwin-12032006)
-
----
 
 ### 🛠️ Languages & Tools
 
@@ -115,38 +97,5 @@ I’m a passionate full-stack developer with strong hands-on experience in:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwin-12032006&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
 </p>
-
----
-
-### 🏆 Hackathon Achievements
-
-- Finalist – Hack Your Path 6.0 @ HITAM, Hyderabad (Apr 2025)
-- Finalist – MIH 3.0 @ IITM, Delhi (Mar 2025)
-
----
-
-### 🎯 Goals
-
-- 🚀 Build real-world scalable apps
-- 🧠 Master Spring Boot and AI integrations
-- 🤝 Collaborate in open-source projects
-
----
-
-### 😄 Fun Facts
-
-- 💡 I enjoy solving real-life problems with tech
-- 🧩 Passionate about full-stack development and backend engineering
-- 🧑‍🏫 Love mentoring and learning through hackathons
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ashwin-12032006/ashwin-12032006/output/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
----
-
-<!-- For contribution snake animation, use GitHub Action: https://github.com/Platane/snk -->
 
 
