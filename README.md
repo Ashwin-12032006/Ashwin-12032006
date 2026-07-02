@@ -1,5 +1,3 @@
-# 👋 Hi, I'm K. Ashwin Shanmughanathan
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=K.%20ASHWIN%20SHANMUGHANATHAN&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&animation=fadeIn"/>
@@ -1154,7 +1152,6 @@ Worked on enterprise backend development, frontend implementation, database inte
 <img src="https://raw.githubusercontent.com/Ashwin-12032006/Ashwin-12032006/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
-
 ---
 
 # Current Focus
